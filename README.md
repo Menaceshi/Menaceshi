@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好， 我是印尼人。 你在什么国？我要学习汉语。不要介意我。## 👋
 
 <!--
 **Menaceshi/Menaceshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
